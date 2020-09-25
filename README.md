@@ -6,4 +6,6 @@ CB_Shop adalah chat bot yang digunakan untuk membantu pemilik usaha menjawab per
 CB_Shop ialah 
 - Merisa Syafrina
 - Pradipta Budi Harimawan
+- Maulana Muhammad Gibran
 - Billy Andrian
+- Alvin Tendio
